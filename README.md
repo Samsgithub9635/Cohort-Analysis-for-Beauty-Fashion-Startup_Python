@@ -1,2 +1,2 @@
-# e-commerce-Customers-Cohort-Analysis_Python
-e-commerce Customers Cohort Analysis
+# Cohort Analysis for Beauty & Fashion Startup_Python
+Cohort Analysis for Beauty & Fashion Startup
